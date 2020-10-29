@@ -1,7 +1,15 @@
 
+```shell
+./gradlew clean buld
+
+./gradlew bootrun
+
+```
 
 http://localhost:8080/voyager
+
 http://localhost:8080/graphiql
+
 
 ```graphql
 query {
